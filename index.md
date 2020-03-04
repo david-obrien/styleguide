@@ -6,7 +6,7 @@ title: Overview
 
 This is the **Scottish Enterprise Content Styleguide**
 
-> Thgis is not a live site yet
+> This is not a live site yet
 
 ### How to use
 
@@ -14,7 +14,7 @@ This is the **Scottish Enterprise Content Styleguide**
 2. bbb
 3. ccc
 
-> Feel free to send us a message at 
+> Feel free to send us a message at ...
 
 ### Features
 
