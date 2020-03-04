@@ -2,7 +2,7 @@
 title: Overview
 ---
 
-#Draft version of styleguide
+# Draft version of styleguide
 
 This is the **Scottish Enterprise Content Styleguide**
 
