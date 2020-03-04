@@ -2,7 +2,7 @@
 title: Overview
 ---
 
-### This is a draft vesrion of the site
+### This is a draft version of the site
 
 This is the **Scottish Enterprise Content Styleguide**
 
