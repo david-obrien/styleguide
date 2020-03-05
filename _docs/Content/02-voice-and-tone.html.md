@@ -1,51 +1,23 @@
 ---
-title: Voice and Tone
+title: Writing in plain English
 category: Content
 order: 2
 ---
 
-One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Mailchimp.
+You should always write in plain English on the GlobalScot platform. This means using everyday language that our users will be familiar with.
+Some key principles of plain English include:
+* **Avoiding jargon and internal language** – sometimes the way we refer to things internally isn’t how our users talk about them. This includes acronyms
+* **Explaining complicated terms if we do need to use them.** 
+* **Keeping sentences short.** 
+* **Using active sentences** – instead of ‘This website has been updated’, say ‘We’ve updated this website.’
+Using plain English doesn’t mean writing in a patronising way and it’s definitely not ‘dumbing down’. It’s about getting a point across in the simplest, quickest way that puts the least amount of effort on the user. Studies show that even experts prefer plan English – just because they can understand long, complicated sentences and jargon, doesn’t mean they enjoy reading them. 
 
-What’s the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you're out to dinner with your closest friends, and a different tone when you're in a meeting with your boss.
+##Using technical terms##
+Technical terms aren’t always jargon, as long as you know our target audience will be familiar with them. Our target audience are typically business owners, professionals or senior business decision makers. This means they’ll usually be familiar with standard business terms. 
+If in doubt, just explain what the term means the first time you use it.
 
-Your tone also changes depending on the emotional state of the person you’re addressing. You wouldn’t want to use the same tone of voice with someone who’s scared or upset as you would with someone who’s laughing.
+##Why use plain English?##
+Plain English makes sure that our content is easy to read and understand for all our users – including those with cognitive disabilities or those who don’t speak English as a first language. Given our network has international reach, we can assume that a significant portion of our audience may not speak English as a foreign language.
 
-The same is true for Mailchimp. Our voice doesn’t change much from day to day, but our tone changes all the time.
-
-## Voice
-
-At Mailchimp, we’ve walked in our customers' shoes, and we know marketing technology is a minefield of confusing terminology. That’s why we speak like the experienced and compassionate business partner we wish we’d had way back when. 
-
-We treat every hopeful brand seriously. We want to educate people without patronizing or confusing them. 
-
-Using offbeat humor and a conversational voice, we play with language to bring joy to their work. We prefer the subtle over the noisy, the wry over the farcical. We don't take ourselves too seriously.
-
-Whether people know what they need from us or don’t know the first thing about marketing, every word we say informs and encourages. We impart our expertise with clarity, empathy, and wit. 
-
-All of this means that when we write copy:
-
-1. **We are plainspoken.** We understand the world our customers are living in: one muddled by hyperbolic language, upsells, and over-promises. We strip all that away and value clarity above all. Because businesses come to Mailchimp to get to work, we avoid distractions like fluffy metaphors and cheap plays to emotion. 
-
-2. **We are genuine.** We get small businesses because we were one not too long ago. That means we relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way. 
-
-3. **We are translators.** Only experts can make what’s difficult look easy, and it’s our job to demystify B2B-speak and actually educate.
-
-4. **Our humor is dry.** Our sense of humor is straight-faced, subtle, and a touch eccentric. We’re weird but not inappropriate, smart but not snobbish. We prefer winking to shouting. We’re never condescending or exclusive—we always bring our customers in on the joke.
-
-## Tone
-
-Mailchimp’s tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Once you have an idea of their emotional state, you can adjust your tone accordingly.
-
-Mailchimp has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
-
-## Style tips
-
-Here are a few key elements of writing Mailchimp’s voice. For more, see the [Grammar and mechanics section](/04-grammar-and-mechanics.html.md).
-
-* [**Active voice**](/04-grammar-and-mechanics.html.md/#header-3-active-voice) Use active voice. Avoid passive voice.
-* [**Avoid slang and jargon**](/04-grammar-and-mechanics.html.md/#header-3-slang-and-jargon) Write in plain English.
-* [**Write positively**](/04-grammar-and-mechanics.html.md/#header-3-write-positively) Use positive language rather than negative language.
-
-## A note about Freddie
-
-Freddie has been around in various forms since the company's beginning, and he captures the spirit of our brand’s personality. He smiles, winks, and sometimes high-fives, but he does not talk. Don't write in his voice. For more on how to use Freddie, see our [brand assets](https://mailchimp.com/about/brand-assets/).
+##Puns, metaphors and word play##
+Given that some of our users may not speak English as a foreign language, we’d recommend staying away from puns, metaphors, common sayings and idioms. These tend to be based on words with double meanings, purposefully misspelled words or saying something but meaning something else – which can understandable be difficult for non-native speakers to understand. 
