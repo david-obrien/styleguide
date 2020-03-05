@@ -1,22 +1,18 @@
 ---
-title: Overview
+title: GlobalScot content guidelines
 ---
 
 ### This is a draft version of the site
 
-This is the **Scottish Enterprise Content Styleguide**
+We’ve created a set of guidelines to help you create content for the GlobalScot platform. It’ll help make sure the user experience is consistent across the website, and that our content is easy for users to read and understand. 
+It contains general guidelines for writing, structuring and testing content, as well as some style guides to make sure we’re consistent across the site. 
+Our guidelines are unique to the GlobalScot platform, but they complement guidelines and style guides used across other government services
+
 
 > This is not a live site yet
 
-### How to use
+### Using the guidelines
 
-1. aaa
-2. bbb
-3. ccc
+Remember that these are just guidelines, not fixed rules. The most important thing is that our content supports a good user experience. If that means straying away from the guidelines every now and then, that’s fine. 
 
-> Feel free to send us a message at ...
-
-### Features
-
-zzz
 
