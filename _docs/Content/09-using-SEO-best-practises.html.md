@@ -1,5 +1,5 @@
 ---
-title: Writing Legal Content
+title: Using SEO best practises
 category: Content
 order: 9
 ---
