@@ -1,6 +1,6 @@
 ---
 title: Writing microcopy
-category: Content
+category: Guidelines
 order: 11
 ---
 
