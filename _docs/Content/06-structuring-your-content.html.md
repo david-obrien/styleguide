@@ -1,5 +1,5 @@
 ---
-title: Web Elements
+title: Structuring your content
 category: Content
 order: 6
 ---
