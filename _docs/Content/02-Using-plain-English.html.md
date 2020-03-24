@@ -1,6 +1,6 @@
 ---
 title: Using plain English
-category: Content
+category: Guidelines
 order: 2
 ---
 
