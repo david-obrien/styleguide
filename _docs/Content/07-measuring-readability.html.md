@@ -1,6 +1,6 @@
 ---
 title: Measuring readability 
-category: Content
+category: Guidelines
 order: 7
 ---
 
