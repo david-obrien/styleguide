@@ -1,6 +1,6 @@
 ---
 title: Structuring your content
-category: Content
+category: Guidelines
 order: 6
 ---
 
