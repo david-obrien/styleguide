@@ -7,10 +7,12 @@ order: 4
 To help you write for the platform, we’ve created some style guides that are bespoke to the GlobalScot platform. They’ll make sure we’re consistently spelling words, using capital letters and formatting content.  
 
 **Our word list**
+
 This contains information about formatting of words you might need to use on the platform, including when to capitalise. This includes words specific to the platform, like the names of features. 
 [GlobalScot word list](link to be added)
  
 **Formatting and grammar**
+
 This document contains information about formatting and grammar, such as how to format numbers, dates and bullet points.
 [GlobalScot formatting and grammer style guide](link to be added)
 
