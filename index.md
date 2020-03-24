@@ -13,3 +13,6 @@ Remember that these are just guidelines, not fixed rules. The most important thi
 
 > This is not a live site yet
 
+### Acknowledgement 
+
+We'd like to credit MailChimp for the inspiration for these content guidelines. 
