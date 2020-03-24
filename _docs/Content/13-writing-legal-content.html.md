@@ -1,7 +1,7 @@
 ---
 title: Writing legal content
-category: Content
-order: 13
+category: Guidelines
+order: 12
 ---
 
 It’s important that our legal content is just as easy to understand as all the other content on our site. 
