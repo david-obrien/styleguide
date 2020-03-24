@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Mailchimp Content Style Guide
 category: Content
-order: 0
+order: 12
 ---
 
 This style guide was created for Mailchimp employees, but we hope it’s helpful for other content and communications teams too.
