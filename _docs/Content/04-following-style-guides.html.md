@@ -1,6 +1,6 @@
 ---
 title: Following style guides 
-category: Content
+category: Guidelines
 order: 4
 ---
 
