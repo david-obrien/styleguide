@@ -1,6 +1,6 @@
 ---
 title: Tone of voice
-category: Content
+category: Guidelines
 order: 3
 ---
 
