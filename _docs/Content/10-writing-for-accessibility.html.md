@@ -1,6 +1,6 @@
 ---
 title: Writing for accessibility
-category: Content
+category: Guidelines
 order: 10
 ---
 
