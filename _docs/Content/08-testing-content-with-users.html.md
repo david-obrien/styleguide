@@ -1,6 +1,6 @@
 ---
 title: Testing content with users
-category: Content
+category: Guidelines
 order: 8
 ---
 
