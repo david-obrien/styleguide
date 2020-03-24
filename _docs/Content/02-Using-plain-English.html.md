@@ -1,5 +1,5 @@
 ---
-title: Writing in plain English
+title: Using plain English
 category: Content
 order: 2
 ---
