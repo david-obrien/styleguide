@@ -1,6 +1,6 @@
 ---
 title: Using SEO best practises
-category: Content
+category: Guidelines
 order: 9
 ---
 
