@@ -1,6 +1,6 @@
 ---
 title: Key writing principles
-category: Content
+category: Guidelines
 order: 1
 ---
 
