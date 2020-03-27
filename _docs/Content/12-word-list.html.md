@@ -482,4 +482,3 @@ Lower case.
 
 Not “zero-hour contract” or “zero hours contract”.
  
-
