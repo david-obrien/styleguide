@@ -1,7 +1,7 @@
 ---
 title: Testing content with users
 category: Guidelines
-order: 8
+order: 07
 ---
 
 If you’re publishing content like a news story, event or blog post, it might not need much user testing. But if you’re writing content that’s part of a longer journey – such as a homepage, registration form or instructions, you should always test it with users. 
