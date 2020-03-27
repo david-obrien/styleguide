@@ -1,7 +1,7 @@
 ---
 title: Measuring readability 
 category: Guidelines
-order: 7
+order: 06
 ---
 
 When you’re writing content, make sure to measure its readability score. You can do this via Microsoft Word, but there are other tools you can use as well.  
