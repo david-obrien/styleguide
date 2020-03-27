@@ -6,7 +6,7 @@ order: 12
 
 This list helps clarify the spelling and formatting of words that may be used on the GlobalScot platform. It’s an edited version of the GOV UK ONE, refined to include only the relevant words. 
 
-[still to include – challenges, pulse] 
+[still to include – challenges, pulse](#) 
 
 **adviser**
 
