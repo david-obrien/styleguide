@@ -4,7 +4,7 @@ category: Guidelines
 order: 08
 ---
 
-**Again, may come from Whitespace?**
+> Again, may come from Whitespace?
 
 To make sure our content ranks well in search and is seen by as many potential customers as possible, we can use SEO best practises:
 * Produce high-quality, unique content
