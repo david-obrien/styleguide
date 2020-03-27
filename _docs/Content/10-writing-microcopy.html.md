@@ -1,7 +1,7 @@
 ---
 title: Writing microcopy
 category: Guidelines
-order: 11
+order: 10
 ---
 
 Not all content on the GlobalScot platform is long-form articles, web pages and news stories. Sometimes, a piece of content will be as short as a button, notification or error message. 
