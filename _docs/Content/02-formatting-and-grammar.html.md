@@ -1,7 +1,7 @@
 ---
 title: Formatting and grammar style guide
 category: Style guides
-order: 02
+order: 16
 ---
 
 [to be added]
