@@ -4,7 +4,7 @@ category: Guidelines
 order: 1
 ---
 
-**Always put the user first.**
+**Always put the user first**
 
 When you’re writing content, focus on what the user needs to know – not what we want to tell them. And always refer to the user as ‘you’. 
 
