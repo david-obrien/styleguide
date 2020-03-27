@@ -1,7 +1,7 @@
 ---
 title: Writing for accessibility
 category: Guidelines
-order: 10
+order: 09
 ---
 
 We want our services to be enjoyed by everyone. This means creating a platform that’s accessible and easy to use, whether a user is colour-blind, dyslexic, using a screen reader or has any other accessibility requirement. 
