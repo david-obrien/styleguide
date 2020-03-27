@@ -1,7 +1,7 @@
 ---
 title: Using SEO best practises
 category: Guidelines
-order: 9
+order: 08
 ---
 
 [Again, may come from Whitespace?] 
