@@ -336,7 +336,7 @@ Do not use slashes instead of “or”. For example, “Do this 3/4 times”.
 
 Use the singular verb form when referring to organisations by name. Use ‘they’ when replacing an organisation name with a pronoun.
 
-For example: ‘HMPO is the sole issuer of UK passports. They will send your new passport within 3 weeks’
+For example: ‘HMPO is the sole issuer of UK passports. They will send your new passport within 3 weeks’.
 
 The definite article can be used when referring to the organisation by its full name, but should not be used with the organisation’s acronym: ‘You should contact the Driver and Vehicle Standards Agency if…’ but ‘You should contact DVSA if…’
 
