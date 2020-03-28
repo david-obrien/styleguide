@@ -1,7 +1,7 @@
 ---
 title: Word List
 category: Style guides
-order: 12
+order: 0
 ---
 
 This list helps clarify the spelling and formatting of words that may be used on the GlobalScot platform. It’s an edited version of the GOV UK ONE, refined to include only the relevant words.

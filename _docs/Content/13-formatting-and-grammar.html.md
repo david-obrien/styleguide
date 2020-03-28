@@ -1,7 +1,7 @@
 ---
 title: Formatting and grammar style guide
 category: Style guides
-order: 13
+order: 1
 ---
 
 This guide explains common formatting and grammar guides such as bullet points, numbers, dates and more.
