@@ -4,13 +4,13 @@ category: Style guides
 order: 13
 ---
 
-This guide explains common formatting and grammar guides such as bullet points, numbers, dates and more. 
+This guide explains common formatting and grammar guides such as bullet points, numbers, dates and more.
 
 
 **Abbreviations and acronyms**
 We might use abbreviations internally, but we can’t be sure users will know what these mean. Always question whether you need to use an abbreviation. If you don’t, just spell it out in full each time. If you do, spell it out in full the first time, with the abbreviation in brackets next to it. You can then use the abbreviation for subsequent mentions.
 
-This doesn’t apply to abbreviations that are well known and you can be sure the user will recognise. This could include UK, US, EU, VAT and MP. 
+This doesn’t apply to abbreviations that are well known and you can be sure the user will recognise. This could include UK, US, EU, VAT and MP.
 
 Do not use full stops in abbreviations: BBC, not B.B.C.
 
@@ -53,15 +53,15 @@ The number and type of examples in a list may lead the user to believe the list 
 
 DO NOT USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT’S QUITE HARD TO READ.
 
-Always use sentence case for headings. 
+Always use sentence case for headings.
 
-Always question whether the word you’re using really needs to be capitalised. Only proper nouns should be capitalised, such as places, titles and names. If a brand name is capitalised, always capitalise it. 
+Always question whether the word you’re using really needs to be capitalised. Only proper nouns should be capitalised, such as places, titles and names. If a brand name is capitalised, always capitalise it.
 
-Refer to our word list for guidance around capitalisation of specific words you might use on the platform. 
+Refer to our word list for guidance around capitalisation of specific words you might use on the platform.
 
 **Contractions**
 
-We tend to use contractions to make our writing feel less formal and more friendly. So feel free to say it’s, you’re, we’ll etc. 
+We tend to use contractions to make our writing feel less formal and more friendly. So feel free to say it’s, you’re, we’ll etc.
 
 However, avoid negative contractions like can’t and don’t. Many users find them harder to read, or misread them as the opposite of what they say. Use cannot, instead of can’t.
 
@@ -127,7 +127,7 @@ Front-load your link text with the relevant terms and make them active and speci
 
 **Lists**
 
-Lists should be bulleted to make them easier to read. 
+Lists should be bulleted to make them easier to read.
 
 Very long lists can be written as a paragraph with a lead-in sentence if it looks better: ‘The following countries are in the EU: Spain, France, Italy…’
 
@@ -251,5 +251,3 @@ When a number is memorable, group the numbers into easily remembered units: 0800
 Midnight is the first minute of the day, not the last. You should consider using “11:59pm” to avoid confusion about a single, specific time.
 
 For example, “You must register by 11:59pm on Tuesday 14 June.” can only be read one way, but “You must register by midnight on Tuesday 14 June” can be read in two ways (the end of Monday 13, or end of Tuesday 14).
-
-

@@ -8,7 +8,7 @@ You should always write in plain English on the GlobalScot platform. This means 
 
 Some key principles of plain English include:
 * **Avoiding jargon and internal language** – sometimes the way we refer to things internally isn’t how our users talk about them. Avoid technical terms, internal speak and acronyms. If you need to use them, make sure you explain what they mean first.
-* **Keeping sentences short** 
+* **Keeping sentences short**
 * **Make one point per sentence** - try not to squeeze too many points into one sentence. Break up longer sentences into short, simple sentences.
 * **Using active sentences** – instead of ‘This website has been updated’, say ‘We’ve updated this website.’
 

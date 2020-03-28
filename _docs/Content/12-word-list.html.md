@@ -4,7 +4,7 @@ category: Style guides
 order: 12
 ---
 
-This list helps clarify the spelling and formatting of words that may be used on the GlobalScot platform. It’s an edited version of the GOV UK ONE, refined to include only the relevant words. 
+This list helps clarify the spelling and formatting of words that may be used on the GlobalScot platform. It’s an edited version of the GOV UK ONE, refined to include only the relevant words.
 
 > still to include – challenges, pulse
 
@@ -23,9 +23,9 @@ Always lower case unless it’s part of a proper title: so upper case for the Ju
 
 **Brand names**
 
-Always spell and format brand names the way the brand spells and formats them. 
+Always spell and format brand names the way the brand spells and formats them.
 
-Avoid using branded or trademarked names where possible - so tablet not iPad, spreadsheet not Excel sheet. 
+Avoid using branded or trademarked names where possible - so tablet not iPad, spreadsheet not Excel sheet.
 
 **Brexit**
 
@@ -95,7 +95,7 @@ Lower case. Only use upper case when part of the title of a specific customs uni
 
 **data**
 
-Treat as a singular noun: The data is stored on a secure server. 
+Treat as a singular noun: The data is stored on a secure server.
 
 **data set**
 
@@ -183,7 +183,7 @@ No full stops between the initials. No apostrophe in the plural.
 
 **GlobalScot, GlobalScots**
 
-Capital ‘G’, capital ‘S’, all one word. Refers only to the people in the network who offer business support to the businesses in the network. 
+Capital ‘G’, capital ‘S’, all one word. Refers only to the people in the network who offer business support to the businesses in the network.
 
 **governing body**
 
@@ -251,7 +251,7 @@ Lower case.
 
 When used in the technical context (for example ‘internet protocol’), there’s no need to explain the acronym.
 
-If using to mean intellectual property, always spell it out in full first. If you think there's likely to be any confusion - for example if you're talking about an IP address and intellectual property in the same article, make sure to spell it out in full. 
+If using to mean intellectual property, always spell it out in full first. If you think there's likely to be any confusion - for example if you're talking about an IP address and intellectual property in the same article, make sure to spell it out in full.
 
 **law**
 
@@ -305,11 +305,11 @@ Separate with a slash. Only use in tables.
 
 **National Insurance contributions**
 
-Upper case. Any additions should be lower case – National Insurance number, National Insurance contributions. 
+Upper case. Any additions should be lower case – National Insurance number, National Insurance contributions.
 
 **the network**
 
-When referring to the GlobalScot network, the network refers to the people within the network. The network includes GlobalScots, business members, staff and partners. ‘The platform’ refers to the website itself. 
+When referring to the GlobalScot network, the network refers to the people within the network. The network includes GlobalScots, business members, staff and partners. ‘The platform’ refers to the website itself.
 
 ‘post a question to the network’ vs ‘how to use the platform’
 
@@ -359,7 +359,7 @@ Lower case.
 
 **the platform**
 
-Refers to the website itself, rather than the people in it. ‘The network’ should be used when talking about the people within the GlobalScot network. 
+Refers to the website itself, rather than the people in it. ‘The network’ should be used when talking about the people within the GlobalScot network.
 
 ‘how to use the platform’ vs ‘post a question to the network’
 
@@ -417,7 +417,7 @@ This acronym means small and medium-sized enterprises. Use SME for the singular.
 
 Capitalised – January’s Spotlight
 
-Should not be used as a verb i.e Spotlighted. Instead use something like ‘Featured in our December Spotlight’. 
+Should not be used as a verb i.e Spotlighted. Instead use something like ‘Featured in our December Spotlight’.
 
 **standards of conduct**
 
@@ -482,4 +482,3 @@ Lower case.
 **zero-hours contract**
 
 Not “zero-hour contract” or “zero hours contract”.
- 
