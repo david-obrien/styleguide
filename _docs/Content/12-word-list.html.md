@@ -4,7 +4,7 @@ category: Style guides
 order: 0
 ---
 
-This list helps clarify the spelling and formatting of words that may be used on the GlobalScot platform. It’s an edited version of the GOV UK one, refined to include only the relevant words.We've also expanded it to include words and terms that are specific to the GlobalScot website and platform.
+This list helps clarify the spelling and formatting of words and terms that may be used on the GlobalScot platform. It’s an edited version of the Government Digital Service A-Z style guide, refined to include only the relevant words.
 
 
 **adviser**
@@ -13,13 +13,13 @@ For example, special adviser. Not advisor, but advisory is the correct adjective
 
 **board**
 
-Always lower case unless it’s part of a proper title: so upper case for the Judicial Executive Board, but lower case for the DFT’s management board.
+Always lower case unless it’s part of a proper title: so upper case for the Judicial Executive Board, but lower case for a business's advisory board. 
 
 **Brand names**
 
 Always spell and format brand names the way the brand spells and formats them.
 
-Avoid using branded or trademarked names if you don't need to - for example, 'You can complete this form on a tablet' rather than 'You can complete this form on an iPad.'
+Avoid using branded or trademarked names if you don't need to - for example, use 'You can complete this form on a tablet' rather than 'You can complete this form on an iPad.'
 
 **Brexit**
 
@@ -48,6 +48,7 @@ Not “check box”.
 Don’t use “click” when talking about user interfaces because not all users click. Use “select”.
 
 **community feed**
+
 Lower case. Refers to the community feed feature on the platform. Once introduced as the 'community feed', you can refer to it as simply the feed. 'Welcome to our community feed. On the feed you'll find....' 
 
 **Corporation Tax**
