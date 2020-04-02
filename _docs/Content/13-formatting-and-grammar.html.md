@@ -4,10 +4,11 @@ category: Style guides
 order: 1
 ---
 
-This guide explains common formatting and grammar guides such as bullet points, numbers, dates and more.
+This guide explains common formatting and grammar guides such as bullet points, numbers, dates, use of capital letters and more.
 
 
 **Abbreviations and acronyms**
+
 We might use abbreviations internally, but we can’t be sure users will know what these mean. Always question whether you need to use an abbreviation. If you don’t, just spell it out in full each time. If you do, spell it out in full the first time, with the abbreviation in brackets next to it. You can then use the abbreviation for subsequent mentions.
 
 This doesn’t apply to abbreviations that are well known and you can be sure the user will recognise. This could include UK, US, EU, VAT and MP.
@@ -40,22 +41,16 @@ You can use bullet points to make text easier to read. Make sure that:
 *	you do not put a semicolon at the end of a bullet
 *	there is no full stop after the last bullet point
 
-Bullets should normally form a complete sentence following from the lead text. But it’s sometimes necessary to add a short phrase to clarify whether all or some of the points apply. For example, ‘You can only register a pension scheme that is (one of the following):’
-
-The number and type of examples in a list may lead the user to believe the list is exhaustive. This can be dealt with by:
-*	checking if there are other conditions (or if the list is actually complete)
-*	listing the conditions which apply to the most users and removing the rest
-*	consider broader terms in the list which capture more scenarios (and could make the list exhaustive)
-*	creating a journey to specialist content to cover the remaining conditions
+Bullets should normally form a complete sentence following from the lead text. But it’s sometimes necessary to add a short phrase to clarify whether all or some of the points apply. For example, ‘You can only register a pension scheme that is (one of the following):'.
 
 
 **Capitalisation**
 
+It can be tempting to over-use capitalisation. Remember that capitals should only be used for proper nouns such as places, titles, names and brand names (if the brand uses capitals). On the GlobalScot platform, avoid using capitals for anything that feels like 'a thing.' This means that our platform features (such as the community feed, news & features, dashboard, events and projects) should not start with a capital letter. Roles within the network don't need a capital letter - such as business member, engagement partner or admin. The term 'GlobalScots' should use a capital 'G' and capital 'S'. 
+
 DO NOT USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT’S QUITE HARD TO READ.
 
-Always use sentence case for headings.
-
-Always question whether the word you’re using really needs to be capitalised. Only proper nouns should be capitalised, such as places, titles and names. If a brand name is capitalised, always capitalise it.
+Always use sentence case for headings. Do Not Capitalise Every Word in a Heading. 
 
 Refer to our word list for guidance around capitalisation of specific words you might use on the platform.
 
