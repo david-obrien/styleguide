@@ -27,6 +27,10 @@ Not ‘EU Exit’.
 
 “No-deal Brexit” rather than “No deal Brexit”.
 
+**Britain, British**
+
+Use UK and United Kingdom in preference to Britain and British (UK business, UK foreign policy, ambassador and high commissioner). But British embassy, not UK embassy.
+
 **Business member**
 
 Within the network, business members are users who have joined to access support from our GlobalScots. They should not be referred to as ‘Non-GlobalScots’. They should also not be referred to as 'businesses' - business members register as individuals and may have more than one business associated with their profile. 
@@ -137,15 +141,15 @@ Lower case unless it’s a full title. For example: ‘UK government’, but ‘
 
 Also ‘Welsh Government’, as it’s the full title.
 
-**Britain, British**
-
-Use UK and United Kingdom in preference to Britain and British (UK business, UK foreign policy, ambassador and high commissioner). But British embassy, not UK embassy.
-
 **Group**
 
 Upper case for names of groups, directorates and organisations: Knowledge and Innovation Group.
 
 Lower case when a group has a very generic title like working group or research team.
+
+**Help request**
+
+Avoid using this phrase. Instead, use a verb form. For example, say 'Request help from this GlobalScot' instead of 'Submit a help request to this GlobalScot'. 
 
 **ID**
 
@@ -266,7 +270,7 @@ This acronym means small and medium-sized enterprises. Use SME for the singular.
 
 **Spotlight**
 
-TBC if capitalised or not  – January’s Spotlight
+Upper case. This is the only feature that should start with a capital letter, and this is to clarify it's a specific feature, rather than using the term more generally.
 
 Should not be used as a verb i.e Spotlighted. Instead use something like ‘Featured in our December Spotlight’.
 
