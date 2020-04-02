@@ -183,10 +183,6 @@ Use upper case for the full title, like Minister for Overseas Development, or wh
 
 When used without the name, shortened titles are lower case: The health minister welcomed the research team.
 
-**multi-ethnic**
-
-Hyphenated.
-
 **multilingual**
 
 One word.
