@@ -7,21 +7,32 @@ order: 2
 You should always write in plain English on the GlobalScot platform. This means using everyday language that our users will be familiar with.
 
 Some key principles of plain English include:
-**Avoiding jargon and internal language** – sometimes the way we refer to things internally isn’t how our users talk about them. Avoid technical terms, internal speak and acronyms. If you need to use them, make sure you explain what they mean first.
+
+**Avoiding jargon and internal language**
+
+Sometimes the way we refer to things internally isn’t how our users talk about them. Avoid technical terms, internal speak and acronyms. If you need to use them, make sure you explain what they mean first.
 
 **Keeping sentences short**
 
-**Make one point per sentence** - try not to squeeze too many points into one sentence. Break up longer sentences into short, simple sentences.
+Break up longer sentences into short, simple sentences. 
 
-**Using active sentences** – instead of ‘This website has been updated’, say ‘We’ve updated this website.’
+**Make one point per sentence**
 
-**Using simple words** – avoid complicated words if you can use simple ones to get the same point accross. 
+Try not to squeeze too many points into one sentence. Avoid overusing commas, dashes and semi-colons to join multiple points together. 
+
+**Using active sentences** 
+
+Instead of ‘This website has been updated’, say ‘We’ve updated this website.’
+
+**Using simple words** 
+
+Avoid complicated words if you can use simple ones to get the same point accross. 
 
 ### Why use plain English? ###
 
-Using plain English doesn’t mean writing in a patronising way and it’s definitely not ‘dumbing down’. It’s about getting a point across in the simplest, quickest way that puts the least amount of effort on the user. Studies show that even experts prefer plan English – just because they can understand long, complicated sentences and jargon, doesn’t mean they enjoy reading them.
+Using plain English doesn’t mean writing in a patronising way and it’s definitely not ‘dumbing down’. It’s about getting a point across in the simplest, quickest way that puts the least amount of effort on the user. Studies show that even experts prefer plan English. Just because they can understand long, complicated sentences and jargon, doesn’t mean they enjoy reading them.
 
-Plain English makes sure that our content is easy to read and understand for all our users – including those with cognitive disabilities or those who don’t speak English as a first language. Given our network has international reach, we can assume that a significant portion of our audience may not speak English as a foreign language.
+Plain English makes sure that our content is easy to read and understand for all our users – including those with cognitive disabilities or those who speak English as a foreign or second language. Given our network has international reach, we can assume that a significant portion of our audience may not be native Enlgish speaker. 
 
 ### Using technical terms ###
 Technical terms aren’t always jargon, as long as you know our target audience will be familiar with them. Our target audience are typically business owners, professionals or senior business decision makers. This means they’ll usually be familiar with standard business terms.
@@ -29,4 +40,4 @@ Technical terms aren’t always jargon, as long as you know our target audience 
 If in doubt, just explain what the term means the first time you use it.
 
 ### Puns, metaphors and word play ###
-Given that some of our users may not speak English as a foreign language, we’d recommend staying away from puns, metaphors, common sayings and idioms. These tend to be based on words with double meanings, purposefully misspelled words or saying something but meaning something else – which can understandable be difficult for non-native speakers to understand. Neurodiverse audiences may also interpret these in different ways.
+Given that some of our users may speak English as a foreign or second language, we’d recommend staying away from puns, metaphors, common sayings and idioms. These tend to be based on words with double meanings, purposefully misspelled words or saying something but meaning something else – which can understandably be difficult for non-native speakers to understand. Neurodiverse audiences may also interpret these in different ways.
