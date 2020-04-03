@@ -24,23 +24,23 @@ Here are a few things you might want to consider for different types of microcop
 *	How could users interpret the wording we’ve used?
 *	Are users ready for this CTA? For example, we might want to use strong wording like ‘Apply’, but a user might avoid clicking it if they want more information first. 
 
-**Form fields
+**Form fields**
 
 *	What exact information do we need from users? Get in touch with internal product teams to find out what they need
 *	What format do we need this information in? How will it be used?
 *	Could help text make this field clearer? 
 
-**Validation text
+**Validation text**
 
 *	What errors could be made in the field that would trigger a validation error? For example, in an email address field, there could be multiple errors – a user doesn’t enter anything, a user enters an email address but misses a crucial part like the ‘@’ symbol a user enters an email address but it doesn’t match any we have in our system.
 *	Can separate messages be created for different validation errors, or can we only have one message per field?
 
-**Tooltips
+**Tooltips**
 
 *	What information do users need to know to be able to complete a field? 
 *	Have we considered all scenarios? For example, it’s useful to tell a user where to find their Companies House number, but could there be a scenario where a user doesn’t have a Companies House number for some reason? 
 
-**Error messages
+**Error messages**
 
 *	What exactly has gone wrong?
 *	Has the user done something wrong or is it a system error? Could it be either, or both? 
