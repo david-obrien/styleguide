@@ -44,7 +44,7 @@ Here are a few things you might want to consider for different types of microcop
 
 *	What exactly has gone wrong?
 *	Has the user done something wrong or is it a system error? Could it be either, or both? 
-*	How much difficulty will this cause users? For example, if they’re halfway through the form, will the lose all progress or can it be recovered?
+*	How much difficulty will this cause users? For example, if they’re halfway through the form, will they lose all progress or can it be recovered?
 *	What can a user do to fix the problem?
 
 Some of the most useful questions you can ask when writing microcopy is ‘What happens if…’ and ‘Could there be a scenario where…’. Try to think of every possibility for the user, and write copy that will help them. 
