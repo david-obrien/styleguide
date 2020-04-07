@@ -1,7 +1,7 @@
 ---
 title: Structuring your content
 category: Guidelines
-order: 05
+order: 5
 ---
 
 When writing content, consider how information is structured on the page, as well as where the page sits within a wider journey or section. Clearly structured content is a key principle of plain English, and also supports better accessibility.
