@@ -12,3 +12,7 @@ Using plain English and testing content with a wide variety of users will help i
 * Avoid directional language that rely on the user being able to see the page – such as saying ‘Use the filters on the right-hand side to narrow your results’
 * Avoid writing in all caps
 * If an image provides key information - such as an infographic - make sure to give it useful alt text
+
+
+
+
