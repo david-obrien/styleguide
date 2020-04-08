@@ -7,11 +7,11 @@ order: 0
 This list helps clarify the spelling and formatting of words and terms that may be used on the GlobalScot platform. It’s an edited version of the Government Digital Service A-Z style guide, refined to include only the relevant words.
 
 
-**adviser**
+### adviser ###
 
 For example, special adviser. Not advisor, but advisory is the correct adjective.
 
-**board**
+#### board ####
 
 Always lower case unless it’s part of a proper title: so upper case for the Judicial Executive Board, but lower case for a business's advisory board. 
 
