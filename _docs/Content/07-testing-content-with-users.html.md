@@ -15,7 +15,7 @@ This will help us understand more about:
 ## Types of user testing ##
 There are lots of different ways to test content.
 * A usability test – this is where you get participants to look through the content you’ve created – usually in context of a design or wireframe – to give feedback about what they’re seeing. You can do this in person or by video recording.
-* A highlighter test – this is where you get users to read a piece of content and highlight everything that makes them feel more confident about the service in one colour, and everything that makes them feel less confident about the service in another
-* A cloze test – this is where you remove certain words in a piece of content, and get users to fill in the blanks. This tests how well they understand the content and the context
+* A highlighter test – this is where you get users to read a piece of content and highlight everything that makes them feel more confident about the service in one colour, and everything that makes them feel less confident about the service in another.
+* A cloze test – this is where you remove certain words in a piece of content, and get users to fill in the blanks. This tests how well they understand the content and the context.
 
 It’s important to test content with accessibility in mind. This could include testing content with people who don’t speak English as a first language, people who use screen readers and with people with cognitive disabilities.
