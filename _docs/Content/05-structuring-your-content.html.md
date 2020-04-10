@@ -8,7 +8,7 @@ When writing content, consider how information is structured on the page, as wel
 
 **Break up long content into headings and short paragraphs**
 
-This makes it easier to scan and feels less overwhelming
+This makes it easier to scan and feels less overwhelming.
 
 **Use clear headings**
 
