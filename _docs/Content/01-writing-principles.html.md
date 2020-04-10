@@ -6,11 +6,11 @@ order: 1
 
 **Always put the user first**
 
-When you’re writing content, focus on what the user needs to know – not what we want to tell them. And always refer to the user as ‘you’. If you find that you're using 'we' much more than 'you', then the content is probably not focused enough on the user. Instead of saying 'We built the network to help businesses in Scotland find international contacts', say something like 'If your business is basedin Scotland, you can use the network to find international contacts'. 
+When you’re writing content, focus on what the user needs to know – not what we want to tell them. And always refer to the user as ‘you’. If you find that you're using 'we' much more than 'you', then the content is probably not focused enough on the user. Instead of saying 'We built the network to help businesses in Scotland find international contacts', say something like 'If your business is based in Scotland, you can use the network to find international contacts'. 
 
 **Ask questions**
 
-Don’t be afraid to question why a piece of content is required and what format suits it best. Ask yourself 'Is this something a user needs to know, or is this something we just want to tell the user?'. 
+Don’t be afraid to question why a piece of content is required and what format suits it best. Ask yourself 'Does this really need to be a full article, or could it just be a social post?' or 'Is the user really interested in this, or just our stakeholders?'.
 
 **Write clearly**
 
