@@ -22,4 +22,4 @@ DO NOT USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT’S QUITE HARD TO READ
 | GlobalScot  | Capital 'G', capital 'S' | Find a GlobalScot near you  | Find a Globalscot near you, Find a Global Scot near you.    |
 | Business member  | lower case  | Join as a business member  | Join as a Business Member   |
 | Buttons  | Sentence case  | Read more  | Read More  |
-| Job titles| Upper case for specific job titles, lower case for generic job titles | Minister for Housing, creative director   | minister for housing, Creative Director |
+| Job titles| Upper case if specific, lower case if generic | Minister for Housing, creative director   | minister for housing, Creative Director |
