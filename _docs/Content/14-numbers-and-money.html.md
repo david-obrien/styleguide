@@ -27,6 +27,10 @@ Millions should be spelt out. 5 million, not 5,000,000. Do not abbreviate to 5m.
 Do not use 0.xx million for numbers less than a million. Do not use 0.xx billion for numbers less than 1 billion
 Say '600,000' not 0.6 million.
 
+**Ages**
+
+Do not use hyphens in ages unless to avoid confusion, although it’s always best to write in a way that avoids ambiguity. For example, ‘a class of 15 16-year-old students took the A level course’ can be written as ‘15 students aged 16 took the A level course’.
+
 
 **Fractions, percentages and other maths**
 
