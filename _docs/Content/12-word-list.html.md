@@ -1,5 +1,5 @@
 ---
-title: Word List
+title: Word list
 category: Style guides
 order: 0
 ---
