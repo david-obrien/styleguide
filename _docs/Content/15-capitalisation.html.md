@@ -17,13 +17,7 @@ DO NOT USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT’S QUITE HARD TO READ
 | ------------- | ------------- | ------------- | ------------- |
 | Headings  | Sentence case  | Here’s what a heading looks like  | Here’s What a Heading Looks Like  |
 | Navigation items  | Sentence case  | Community feed  | Community Feed   |
-| Platform features | Lower case  | Go to our community feed
-Learn more about projects
-Want to be featured in next month’s spotlight?
- | Go to our Community Feed
-Learn more about Projects
-Want to be featured in next month’s Spotlight?
-   |
+| Platform features | Lower case  | Go to our community feed | Go to our Community Feed |
 | Navigation items  | Sentence case  | Community feed  | Community Feed   |
 | Navigation items  | Sentence case  | Community feed  | Community Feed   |
 | Navigation items  | Sentence case  | Community feed  | Community Feed   |
