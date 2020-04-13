@@ -18,7 +18,8 @@ DO NOT USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT’S QUITE HARD TO READ
 | Headings  | Sentence case  | Here’s what a heading looks like  | Here’s What a Heading Looks Like  |
 | Navigation items  | Sentence case  | Community feed  | Community Feed   |
 | Platform features | Lower case  | Go to our community feed | Go to our Community Feed |
-| Navigation items  | Sentence case  | Community feed  | Community Feed   |
-| Navigation items  | Sentence case  | Community feed  | Community Feed   |
-| Navigation items  | Sentence case  | Community feed  | Community Feed   |
-| Navigation items  | Sentence case  | Community feed  | Community Feed   |
+| Form field labels  | Sentence case  | First name  | First Name    |
+| GlobalScot  | Capital 'G', capital 'S' | Find a GlobalScot near you  | Find a Globalscot near you, Find a Global Scot near you.    |
+| Business member  | lower case  | Join as a business member  | Join as a Business Member   |
+| Buttons  | Sentence case  | Read more  | Read More  |
+| Job titles| Upper case for specific job titles, lower case for generic job titles | Minister for Housing, creative director   | minister for housing, Creative Director |
