@@ -1,7 +1,7 @@
 ---
 title: Capitalisation
 category: Style guides
-order: 3
+order: 1
 ---
 
 **Capitalisation** 
