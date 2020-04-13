@@ -5,6 +5,7 @@ order: 6
 ---
 
 **Dates**
+
 Use upper case for months: January, February
 
 Do not use a comma between the month and year: 4 June 2017
@@ -28,6 +29,5 @@ Format times in the following ways:
 *	midday (not 12 noon, noon or 12pm)
 *	6 hours 30 minutes
 
-Midnight is the first minute of the day, not the last. You should consider using “11:59pm” to avoid confusion about a single, specific time.
-For example, “You must register by 11:59pm on Tuesday 14 June.” can only be read one way, but “You must register by midnight on Tuesday 14 June” can be read in two ways (the end of Monday 13, or end of Tuesday 14).
+Midnight is the first minute of the day, not the last. You should consider using “11:59pm” to avoid confusion about a single, specific time. For example, “You must register by 11:59pm on Tuesday 14 June” can only be read one way, but “You must register by midnight on Tuesday 14 June” can be read in two ways (the end of Monday 13, or end of Tuesday 14).
 
