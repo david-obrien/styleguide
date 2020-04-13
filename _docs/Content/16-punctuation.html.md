@@ -1,5 +1,5 @@
 ---
-title: Formatting and grammar style guide
+title: Punctuation
 category: Style guides
 order: 4
 ---
