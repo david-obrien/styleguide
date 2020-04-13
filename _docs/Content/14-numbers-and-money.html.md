@@ -4,7 +4,7 @@ category: Style guides
 order: 2
 ---
 
-** Basic numbers ** 
+**Basic numbers** 
 
 In most cases, write all numbers as numerals except for 'one'. There were 3 people on the team. We met 56 new members. 
 Spell out first to ninth, then use numerals - 10th, 15th, 60th. 
@@ -18,7 +18,7 @@ There are a few exceptions:
 
 Use 'to' instead of a dash. '300 to 400 people attended the event'.
 
-** Large numbers **
+**Large numbers**
 
 Numbers over 999 should use a comma for clarity: 6,000. 
 
@@ -36,29 +36,21 @@ Use a % sign for percentages: 50%
 
 In tables, use numerals throughout.
 
-Use the £ symbol: £75
+Ratios have no space either side of the colon: 5:12
 
-Do not use decimals unless pence are included: £75.50 but not £75.00
 
-Do not use ‘£0.xx million’ for amounts less than £1 million.
+**Money** 
+
+Use the £ symbol: £75. 
+
+Use the euro symbol if writing in euros: €56 million. 
+
+Other common currencies should use their abbreviations: 500USD, 500AUD. 
+
+Less common currencies should be spelled out: 500 South African rand. 
 
 Write out pence in full: calls will cost 4 pence per minute from a landline.
 
+Do not use decimals unless pence are included: £75.50 but not £75.00
+
 Currencies are lower case.
-
-** Money ** 
-
-
-Always use million in money (and billion): £138 million.
-
-Use millions in phrases: millions of people.
-
-But do not use £0.xx million for amounts less than £1 million.
-
-Do not abbreviate million to m.
-
-Ratios have no space either side of the colon: 5:12
-
-Write out and hyphenate fractions: two-thirds, three-quarters.
-
-Write out decimal fractions as numerals. Use the same number format for a sequence: 0.75 and 0.45
