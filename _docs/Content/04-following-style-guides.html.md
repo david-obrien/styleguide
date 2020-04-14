@@ -14,9 +14,8 @@ This contains information about formatting of words you might need to use on the
 
 **Formatting and grammar**
 
-This document contains information about formatting and grammar, such as how to format numbers, dates and bullet points.
+We have a number of formatting guides under the 'Style guides' naviagtion section. These include how to use capital letters correctly, how to format numbers, how to format bullet points and more. 
 
-[GlobalScot formatting and grammer style guide](https://scotentsd.github.io/styleguide/Content/13-formatting-and-grammar.html/)
 
 ### Other style guides ###
 
