@@ -14,7 +14,7 @@ This contains information about formatting of words you might need to use on the
 
 **Formatting and grammar**
 
-We have a number of formatting guides under the 'Style guides' naviagtion section. These include how to use capital letters correctly, how to format numbers, how to format bullet points and more. 
+We have a number of formatting guides under the 'Style guides' navigation section. These include how to use capital letters correctly, how to format numbers, how to format bullet points and more. 
 
 
 ### Other style guides ###
