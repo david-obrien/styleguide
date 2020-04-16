@@ -236,6 +236,7 @@ Refers to the website itself, rather than the people in it. ‘The network’ sh
 Lower case: Troubled Families programme, Sure Start programme.
 
 **projects**
+
 Lower case, even when referring to the projects feature on the platform. 
 
 **public sector**
