@@ -15,9 +15,6 @@ You can use bullet points to make text easier to read. Make sure that:
 *	you do not put a semicolon at the end of a bullet
 *	there is no full stop after the last bullet point
 
-Bullets should normally form a complete sentence following from the lead text. But it’s sometimes necessary to add a short phrase to clarify whether all or some of the points apply. For example, ‘You can only register a pension scheme that is (one of the following):’
-The number and type of examples in a list may lead the user to believe the list is exhaustive. This can be dealt with by:
-*	checking if there are other conditions (or if the list is actually complete)
-*	listing the conditions which apply to the most users and removing the rest
-*	consider broader terms in the list which capture more scenarios (and could make the list exhaustive)
-*	creating a journey to specialist content to cover the remaining conditions
+Bullets should normally form a complete sentence following from the lead text. 
+
+Always make it clear whether the bullet list is exhaustive and how many points apply to the user. For example 'To join, you'll need to meet all of the following criteria', 'To join, you'll need to meet at least one of the following criteria'. 
