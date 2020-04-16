@@ -30,7 +30,7 @@ Always try to find the simplest way of saying something. Why say 'acquire' when 
 
 ## Why use plain English? ##
 
-Using plain English doesn’t mean writing in a patronising way and it’s definitely not ‘dumbing down’. It’s about getting a point across in the simplest, quickest way that puts the least amount of effort on the user. Studies show that even experts prefer plan English. Just because they can understand long, complicated sentences and technical jargon, doesn’t mean they enjoy reading them.
+Using plain English doesn’t mean writing in a patronising way and it’s definitely not ‘dumbing down’. It’s about getting a point across in the simplest, quickest way that puts the least amount of effort on the user. Studies show that even experts prefer plain English. Just because they can understand long, complicated sentences and technical jargon, doesn’t mean they enjoy reading them.
 
 Plain English makes sure that our content is easy to read and understand for all our users – including those with cognitive disabilities or those who speak English as a foreign or second language. Given our network has international reach, we can assume that a significant portion of our audience may not be native English speakers. 
 
